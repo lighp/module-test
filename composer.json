@@ -10,5 +10,8 @@
       "name":"emersion",
       "homepage":"http://emersion.fr"
     }
-  ]
+  ],
+  "require": {
+    "lighp/composer-lighp-installers": "dev-master"
+  }
 }
