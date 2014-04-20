@@ -1,0 +1,14 @@
+{
+  "name": "lighp/module-test",
+  "description":"A module for test purposes.",
+  "homepage":"http://lighp.github.io/lighp/",
+  "version":"1.0",
+  "license":"The Unlicence",
+  "type":"lighp-module",
+  "authors":[
+    {
+      "name":"emersion",
+      "homepage":"http://emersion.fr"
+    }
+  ]
+}
