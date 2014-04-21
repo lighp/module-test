@@ -8,3 +8,5 @@ _I loooove gold!_
 And you? What do you like?
 
 Potatoes? Gold?
+
+Or maybe fried potatoes?
